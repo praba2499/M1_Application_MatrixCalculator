@@ -10,7 +10,7 @@
 |H\_06|tested inverse of a matrix|matrix1, n|SUCCESS|SUCCESS|Technical|
 |H\_07|tested power of -1 function|3|-1|-1|Technical|
 |H\_08|tested power of -1 function|2|1|1|Technical|
-## []**Table no: Low level test plan**
+## **Table no: Low level test plan**
 
 |**Test ID**|**HLT ID**|**Description**|**Exp IN**|**Exp OUT**|**Actual Out**|**Type Of Test**|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
