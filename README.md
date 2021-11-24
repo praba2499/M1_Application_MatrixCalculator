@@ -5,6 +5,10 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3c305f347ec94127ab47d2e4c3e45ded)](https://www.codacy.com/gh/praba2499/M1_Application_MatrixCalculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=praba2499/M1_Application_MatrixCalculator&amp;utm_campaign=Badge_Grade)
 
+[![Codacy Badge](https://api.codiga.io/project/29936/score/svg)](https://app.codiga.io/project/29930/dashboard)
+                
+[![Codacy Badge](https://api.codiga.io/project/29936/status/svg)](https://app.codiga.io/project/29930/dashboard)
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
