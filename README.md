@@ -3,9 +3,7 @@
  Mathematical operations are a part of our daily lives. Everyday we will be involving with various types of calculations around us. Matrices is a mathematical entity where numbers are arranged in rows and columns. A lot of applications exist with matrices in real life.The major application lies in the software industry such as development of algorithms like path finder algorithms, image processing algorithms and many more.
  In this project, some of the basic matrix operations are presented where a user can select the operation to be performed on the matrix. Then the matrices with their size are entered. Note that only square matrices are being considered for the project.
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
-[![C/C++ CI - Build Status](https://github.com/praba2499/M1_Application_MatrixCalculator.git/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/praba2499/M1_Application_MatrixCalculator.git/actions/workflows/c-cpp.yml)|[![Code Quality - Static Code - Cppcheck](https://github.com/praba2499/M1_Application_MatrixCalculator.git/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/praba2499/M1_Application_MatrixCalculator.git/actions/workflows/cppcheck.yml)[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/praba2499/M1_Application_MatrixCalculator.git/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/praba2499/M1_Application_MatrixCalculator.git/actions/workflows/CodeQuality_Dynamic.yml)|[![Unit Testing - Unity](https://github.com/praba2499/M1_Application_MatrixCalculator.git/actions/workflows/unity.yml/badge.svg)](https://github.com/praba2499/M1_Application_MatrixCalculator.git/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/praba2499/M1_Application_MatrixCalculator.git/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/praba2499/M1_Application_MatrixCalculator.git/actions/workflows/gitinspector.yml)
+
 
 ## Folder Structure
 Folder             | Description
