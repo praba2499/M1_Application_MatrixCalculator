@@ -5,6 +5,7 @@
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
+[![C/C++ CI - Build Status](https://github.com/praba2499/M1_Application_MatrixCalculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/praba2499/M1_Application_MatrixCalculator/actions/workflows/c-cpp.yml)|[![Code Quality - Static Code - Cppcheck](https://github.com/praba2499/M1_Application_MatrixCalculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/praba2499/M1_Application_MatrixCalculator/actions/workflows/cppcheck.yml)[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/praba2499/M1_Application_MatrixCalculator/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/praba2499/M1_Application_MatrixCalculator/actions/workflows/CodeQuality_Dynamic.yml)|[![Unit Testing - Unity](https://github.com/praba2499/M1_Application_MatrixCalculator/actions/workflows/unity.yml/badge.svg)](https://github.com/praba2499/M1_Application_MatrixCalculator/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/praba2499/M1_Application_MatrixCalculator/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/praba2499/M1_Application_MatrixCalculator/actions/workflows/gitinspector.yml)
 
 ## Folder Structure
 Folder             | Description
