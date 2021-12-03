@@ -8,6 +8,7 @@
 [![Codacy Badge](https://api.codiga.io/project/29936/score/svg)](https://app.codiga.io/project/29930/dashboard)
                 
 [![Codacy Badge](https://api.codiga.io/project/29936/status/svg)](https://app.codiga.io/project/29930/dashboard)
+[![Code Quality - Static Code - Cppcheck](https://github.com/praba2499/M1_Application_MatrixCalculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/praba2499/M1_Application_MatrixCalculator/actions/workflows/c-cpp.yml)
 
 ## Folder Structure
 Folder             | Description
